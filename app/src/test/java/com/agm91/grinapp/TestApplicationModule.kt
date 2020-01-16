@@ -1,4 +1,4 @@
-package com.agm91.grinapp.model.dagger
+package com.agm91.grinapp
 
 import com.agm91.grinapp.data.BluetoothDevicesApi
 import com.agm91.grinapp.model.dagger.NetworkModule
